@@ -187,4 +187,4 @@ d2l.plt.show()
 train_and_pred(train_features, test_features, train_labels, test_data, num_epochs, lr, w, batch_size)
 d2l.plt.show()
 
-print(f'token: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')
+# print(f'token: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')
